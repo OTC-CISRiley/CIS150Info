@@ -2,11 +2,11 @@
 
 ## This week's assignment is available.
 
-ul locate the project 
-ul download the project folder
-ul unzip it
-ul remove github connection
-ul open in visual studio
-ul add to source control in tfs
-ul checkin
-ul complete the assignment on Canvas
+- locate the project 
+- download the project folder
+- unzip it
+- remove github connection
+- open in visual studio
+- add to source control in tfs
+- checkin
+- complete the assignment on Canvas
