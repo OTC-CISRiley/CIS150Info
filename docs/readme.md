@@ -3,7 +3,7 @@
 ## Here are your instructions
 
 #### Locate and open the project
-![QR Code].(qr-code.png)
+![QR Code](qr-code.png)
 ##### locate the project 
 ##### download the project folder
 ##### unzip it
