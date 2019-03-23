@@ -1,6 +1,6 @@
 # Welcome to Level 3
 
-## This week's assignment is available.
+## Here are your instructions
 
 - locate the project 
 - download the project folder
