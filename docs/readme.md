@@ -2,10 +2,12 @@
 
 ## Here are your instructions
 
-- locate the project 
-- download the project folder
-- unzip it
-- remove github connection
+#### Locate and open the project
+##### locate the project 
+##### download the project folder
+##### unzip it
+###### the exception handling project folder is all you need
+#### remove github connection
 - open in visual studio
 - add to source control in tfs
 - checkin
