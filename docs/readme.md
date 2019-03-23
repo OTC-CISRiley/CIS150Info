@@ -3,7 +3,8 @@
 ## Here are your instructions
 
 #### Locate and open the project
-![QR Code](qr-code.png)
+![QR Code](qr-code.png)  
+[QR Code Site](https://github.com/OTC-CISRiley/CIS150Info)
 ##### locate the project 
 ##### download the project folder
 ##### unzip it
