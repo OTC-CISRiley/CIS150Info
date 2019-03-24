@@ -2,16 +2,16 @@
 
 ## Here are your instructions
 
-#### Locate and open the project
-- locate the project 
+#### Locate and save Week10 Exception Handling Assignment
+- locate the exception handling project
 
 [ExceptionHandlingProject](https://github.com/OTC-CISRiley/CIS150Info)
-- download zip file
+- download zip file 
 - unzip the contents
 ### the exception handling project folder is all you need
 
-## remove github connection
-1. Locate project folder in Windows File Explorer
+## remove github connection from the exception handling project folder
+1. Locate the exception handling project folder in Windows File Explorer
 2. Use the View menu bar
 3. check the Show Hidden Files option
 4. Delete the hidden Git files/folders
@@ -20,6 +20,7 @@
 - open in visual studio
 - add to source control in tfs
 - checkin, commit
+- the project is ready to turn in and the instructor will view your code from your tfs folder
 
 ## complete the Canvas assignment
 - fill out the programs submission doc
