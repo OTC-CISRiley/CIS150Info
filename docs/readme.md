@@ -18,11 +18,15 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 4. Delete the hidden Git files/folders
 ![Example Git Association](gitassociation.JPG)
 
-## add the project to your TFS folder
-- open in visual studio
+## add the project to TFS 
+- open visual studio
+- connect to tfs
+- open the project
+- test the project and review the exception handling code try different scenarios to cause exceptions
+
 - add to source control in tfs
-- checkin, commit
-- the project is ready to turn in and the instructor will view your code from your tfs folder
+- check in to tfs
+- the project is now ready to turn in and the instructor will view your code from your tfs folder
 
 ## complete the Canvas assignment
 - fill out the programs submission doc
