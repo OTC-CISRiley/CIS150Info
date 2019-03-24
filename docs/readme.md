@@ -16,6 +16,7 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 2. Use the View menu bar
 3. check the Show Hidden Files option
 4. Delete the hidden Git files/folders
+![Example Git Association](gitassociation.jpg)
 
 ## add the project to your TFS folder
 - open in visual studio
