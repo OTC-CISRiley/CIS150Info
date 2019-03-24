@@ -11,10 +11,10 @@
 ### the exception handling project folder is all you need
 
 ## remove github connection
-1 Locate project folder in Windows File Explorer
-2 Use the View menu bar
-3 check the Show Hidden Files option
-4 Delete the hidden Git files/folders
+1. Locate project folder in Windows File Explorer
+2. Use the View menu bar
+3. check the Show Hidden Files option
+4. Delete the hidden Git files/folders
 
 ## add the project to your TFS folder
 - open in visual studio
