@@ -23,7 +23,7 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - connect to tfs
 - open the project
 - test the project and review the exception handling code try different scenarios to cause exceptions
-
+![Visual Studio Project](visualstudio.JPG)
 - add to source control in tfs
 - check in to tfs
 - the project is now ready to turn in and the instructor will view your code from your tfs folder
