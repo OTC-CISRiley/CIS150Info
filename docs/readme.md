@@ -2,7 +2,7 @@
 
 ## Here are your instructions
 
-#### Locate and save Week10 Exception Handling Assignment
+#### Locate and save the Week10 Exception Handling Assignment
 - locate the exception handling project
 
 [ExceptionHandlingProject](https://github.com/OTC-CISRiley/CIS150Info)
@@ -11,7 +11,8 @@
 ### the exception handling project folder is all you need
 
 ## remove github connection from the exception handling project folder
-1. Locate the exception handling project folder in Windows File Explorer
+Sometimes, a project becomes associated with GitHub and it cannot be added to TFS. If this happens, follow these steps:
+1. Locate the project folder in Windows File Explorer
 2. Use the View menu bar
 3. check the Show Hidden Files option
 4. Delete the hidden Git files/folders
