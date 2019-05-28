@@ -2,7 +2,7 @@
 
 ## Here are your instructions
 
-#### Locate and save the Week10 Exception Handling Assignment
+#### Locate and save the Exception Handling Assignment
 - locate the exception handling project
 
 [ExceptionHandlingProject](https://github.com/OTC-CISRiley/CIS150Info)
@@ -24,13 +24,12 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - open the project
 - test the project and review the exception handling code try different scenarios to cause exceptions
 ![Visual Studio Project](visualstudio.JPG)
+- add internal documentation (comments)
 - add to source control in tfs. if you cannot add to source control, re-do the remove from GitHub procedure
 - check in to tfs
 - the project is now ready to turn in and the instructor will view your code from your tfs folder
 
 ## complete the Canvas assignment
-- fill out the programs submission docfor the Week10 assignment - this is the project assignment
-- upload the program submission doc to Canvas assignment
 - submit the assignment on Canvas
 
 ![Treasure](treasure_chest_PNG41.png)
