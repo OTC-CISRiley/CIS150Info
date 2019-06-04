@@ -1,6 +1,6 @@
-# Welcome to Level 3
+# Welcome to Clue 3
 
-## Here are your instructions
+## Here are your final instructions to find the treasure
 
 #### Locate and save the Exception Handling Assignment
 - locate the exception handling project
@@ -31,7 +31,7 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - check in the updated .cs file
 - the project is now ready to turn in and the instructor will view your code from your tfs folder
 
-## complete the Canvas assignment
+## complete the Canvas assignment - A Treasure Trove of points is to be had by you!
 - submit the assignment on Canvas
 
 ![Treasure](treasure_chest_PNG41.png)
