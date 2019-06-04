@@ -24,9 +24,11 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - open the project
 - test the project and review the exception handling code try different scenarios to cause exceptions
 ![Visual Studio Project](visualstudio.JPG)
-- **add internal documentation (comments)**
 - add to source control in tfs. if you cannot add to source control, re-do the remove from GitHub procedure
 - check in to tfs
+- check out the .cs file
+- **add internal documentation (comments) to the .cs file**
+- check in the updated .cs file
 - the project is now ready to turn in and the instructor will view your code from your tfs folder
 
 ## complete the Canvas assignment
