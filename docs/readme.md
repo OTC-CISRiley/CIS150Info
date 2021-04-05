@@ -35,3 +35,5 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - submit the assignment on Canvas
 
 ![Treasure](treasure_chest_PNG41.png)
+
+- show this treasure chest to your instructor to receive a quacking good reward.
