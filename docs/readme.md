@@ -29,6 +29,7 @@ Sometimes, a project becomes associated with GitHub and it cannot be added to TF
 - check out the .cs file
 - **add internal documentation (comments) to the .cs file**
 - check in the updated .cs file
+- generate a compare report of the .cs file updates
 - the project is now ready to turn in and the instructor will view your code from your tfs folder
 
 ## complete the Canvas assignment - A Treasure Trove of points is to be had by you!
